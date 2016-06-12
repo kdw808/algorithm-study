@@ -12,12 +12,12 @@
 
 ## 일정
 #### 2016.06.19
-- 게임판 덮기(BOARDCOVER) [[link](https://algospot.com/judge/problem/read/BOARDCOVER)]
-- 시계 맞추기(CLOCKSYNC) [[link](https://algospot.com/judge/problem/read/CLOCKSYNC)]
+- 게임판 덮기(BOARDCOVER) [[link](https://algospot.com/judge/problem/read/BOARDCOVER)] : 조혜규
+- 시계 맞추기(CLOCKSYNC) [[link](https://algospot.com/judge/problem/read/CLOCKSYNC)] : 천희진
 
 #### 2016.06.26
-- 쿼드 트리 뒤집기 (QUADTREE) [[link](https://algospot.com/judge/problem/read/QUADTREE)]
-- 울타리 잘라내기 (FENCE) [[link](https://algospot.com/judge/problem/read/FENCE)]
+- 쿼드 트리 뒤집기 (QUADTREE) [[link](https://algospot.com/judge/problem/read/QUADTREE)] : 최선정
+- 울타리 잘라내기 (FENCE) [[link](https://algospot.com/judge/problem/read/FENCE)] : 김대원
 
 #### 2016.07.03
 - 와일드카드 (WILDCARD) [[link](https://algospot.com/judge/problem/read/WILDCARD)]
