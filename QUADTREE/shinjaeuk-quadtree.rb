@@ -1,10 +1,10 @@
 # 풀이
 # 
-# 1. 문자열을 쿼드 트리로 만든다. -> make_node()
+# 1. 문자열을 쿼드트리로 만든다. -> make_node()
 #
-# 2. 쿼드트리의 1,3 노드와 2,4 노드를 변경하다. 뒤집는 효과 -> change_node()
+# 2. 쿼드트리의 모든 1,3 노드와 2,4 노드를 위치를 변경하다. 뒤집는 효과 -> change_node()
 #
-# 3. 트리를 문자열로 만든다. -> make_string()
+# 3. 쿼드트리를 문자열로 만든다. -> make_string()
 
 class Node
 
@@ -17,7 +17,7 @@ end
 
 $result = []
 
-def print_node(node)
+def make_sring(node)
 
 	if node == nil
 		return
@@ -25,10 +25,10 @@ def print_node(node)
 
 	$result.push(node.data)
 
-	print_node(node.one)
-	print_node(node.two)
-	print_node(node.three)
-	print_node(node.four)
+	make_sring(node.one)
+	make_sring(node.two)
+	make_sring(node.three)
+	make_sring(node.four)
 
 end
 
@@ -114,7 +114,7 @@ def make_node(current_node)
 end
 
 
-def make_string(string)
+def make_result(string)
 
 	if string.slice(0,1) != "x"
 
@@ -130,7 +130,7 @@ def make_string(string)
 
 		change_node(root)
 
-		print_node(root)
+		make_sring(root)
 
 		puts $result.join("")
 
@@ -148,5 +148,5 @@ end
 
 str_list.each do |one_line|
 	$result = []
-	make_string(one_line)
+	make_result(one_line)
 end
