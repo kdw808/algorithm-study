@@ -1,0 +1,61 @@
+Enter file contents hereimport java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.List;
+
+public class Main {
+	static int caseCount;
+	static int gameCount;
+	static int result;
+	static int width;
+	static int height;
+	static int temp;
+	static int max;
+	static int ANSWER[] =  new int[50];
+	
+	public static void main(String[] args) throws Exception {
+		
+		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
+		caseCount = Integer.parseInt(in.readLine().trim());
+		for(int testCase = 0; testCase < caseCount; testCase++) {
+			gameCount = Integer.parseInt(in.readLine().trim());
+			max = 0;
+			String[] LineValue = in.readLine().split("\\s+");
+			
+			// 입력받은 값 중복 제거
+			List<Integer> number = new ArrayList<Integer>();
+			for(int gameCase = 0; gameCase < LineValue.length; gameCase++) {
+				number.add(Integer.parseInt(LineValue[gameCase]));
+			}
+			List<Integer> str = new ArrayList<Integer>(new HashSet<Integer>(number));
+			
+			// 중복 제거된 값으로 전체 값 반복, 넓이 계산
+			for(int a = 0 ; a < str.size() ; a++){
+				temp = 0;
+				width = 0;
+				
+				for(int gameCase = 0; gameCase < LineValue.length; gameCase++) {
+					height = str.get(a);
+					if(height <=  Integer.parseInt(LineValue[gameCase])) {
+						width++;
+					} else if (height > Integer.parseInt(LineValue[gameCase])) {
+						width = 0;
+					}
+
+					if(temp < width) 
+						temp = width;
+				}
+				
+				max = height * temp;
+				if(max > ANSWER[testCase])
+					ANSWER[testCase] = max;
+			}
+		}
+		
+		for(int testCase = 0; testCase < caseCount; testCase++) {
+			System.out.println(ANSWER[testCase]);
+		}
+	}
+}
