@@ -26,5 +26,6 @@
 - [동적계획법 테크닉] 드래곤 커브 (DRAGON) [[link](https://algospot.com/judge/problem/read/DRAGON)] : 조혜규
 
 #### 2016.07.10
-- [동적계획법 테크닉] 회전초밥
-- [탐욕법] 문자열 합치기
+- [동적계획법 테크닉] 회전초밥 (SUSHI) [[link](https://algospot.com/judge/problem/read/SUSHI)] : 천희진
+- [탐욕법] 문자열 합치기 (STRJOIN) [[link](https://algospot.com/judge/problem/read/STRJOIN)] : 안진아
+- [탐욕법] 미나스 아노르 (MINASTIRITH) [[link](https://algospot.com/judge/problem/read/MINASTIRITH)] : 이성현
