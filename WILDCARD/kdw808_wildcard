@@ -1,0 +1,84 @@
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.HashSet;
+import java.util.List;
+
+public class WildCard {
+ static int caseCount;
+ static int wordCount;
+ static String wildCard[] = new String[10];
+ static String word[][] = new String[10][50];
+ static String ANSWER[][] = new String[10][50];
+
+ public static void main(String[] args) throws Exception {
+
+  BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
+  caseCount = Integer.parseInt(in.readLine().trim());
+  for (int a = 0; a < caseCount; a++) {
+   wildCard[a] = in.readLine().trim();
+   wordCount = Integer.parseInt(in.readLine().trim());
+
+   for (int b = 0; b < wordCount; b++) {
+    word[a][b] = in.readLine().trim();
+    if (match(wildCard[a], word[a][b], 0, 0))
+     ANSWER[a][b] = word[a][b];
+   }
+  }
+
+  for (int a = 0; a < caseCount; a++) {
+   for (int b = 0; b < word[a].length; b++) {
+    if (ANSWER[a][b] != null)
+     System.out.println(ANSWER[a][b]);
+   }
+  }
+ }
+
+ public static boolean match(String wildCard, String word, int wIndex, int wcIndex) {
+  byte[] wc = wildCard.getBytes();
+  byte[] w = word.getBytes();
+  // wc에 *가 나올때 까지 일치여부 비교
+  while (wIndex < word.length() - 1 && wcIndex < wildCard.length() - 1
+    && (w[wIndex] == wc[wcIndex] || wc[wcIndex] == '?')) {
+   ++wIndex;
+   ++wcIndex;
+  }
+
+  if (wIndex >= word.length() - 1) {
+   // 대상 문자에 뒤에 * 제외한 문자가 있을 경우 불일치
+   if (wcIndex < wildCard.length() - 1) {
+    wcIndex++;
+    for (int a = wcIndex; a < wildCard.length(); a++) {
+     if (wc[a] != '*' && wc[a] != w[wIndex]) {
+      return false;
+     }
+    }
+   }
+
+   return true;
+  }
+
+  // *일 경우
+  if (wIndex < word.length() - 1 && wcIndex < wildCard.length() - 1 && wc[wcIndex] == '*') {
+   ++wIndex;
+   ++wcIndex;
+
+   while (wIndex < word.length() && wc[1] != w[wIndex]) {
+    ++wIndex;
+   }
+
+   // *이후 일치하는 문자가 없을 경우 false
+   if (wIndex == word.length() - 1) {
+    return false;
+   }
+
+   if (match(wildCard, word, wIndex, wcIndex)) {
+    return true;
+   }
+  }
+
+  return false;
+ }
+} 
