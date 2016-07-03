@@ -23,24 +23,21 @@
 
 ## 동적계획법으로 푸는 대표적인 문제
 ### 0-1 배낭 문제(0-1 Knapsack problem)
-입력 : 물건의 개수 n, 각 물건 무게 w_i와 가격 v_i, 배낭에 담을 수 있는 최대 무게 W (단, 물건은 최대 1개만 남을 수 있음)
-출력 : W를 넘지 않는 선에서 총가격을 최대로하는 물건 조합 또는 총가격
-
+- 입력 : 물건의 개수 n, 각 물건 무게 w_i와 가격 v_i, 배낭에 담을 수 있는 최대 무게 W (단, 물건은 최대 1개만 남을 수 있음)
+- 출력 : W를 넘지 않는 선에서 총가격을 최대로하는 물건 조합 또는 총가격
 - 참고 : http://hochulshin.com/01knapsack/
 
 ### 최장 공통 부분 수열 (Longest common subsequence)
-입력 : 두 수열
-출력 : 출력되는 수열은 두 수열에 공통으로 포함된 부분 수열 중 최장 수열 
+- 입력 : 두 수열
+- 출력 : 출력되는 수열은 두 수열에 공통으로 포함된 부분 수열 중 최장 수열 
 - 참고 : http://hochulshin.com/longest-common-subsequence/
 
 ### 연쇄 행렬의 최적 곱셈 순서
-가정 : (m by n) 행렬과 (n x l) 행렬의 곱셈에 O(mnl)의 곱셈이 필요하다.
-입력 : 곱셈해야 되는 행렬 개수 N와 N개의 행렬
-출력 : 곱셈을 최소로하는 행렬 곱의 순서와 최소화된 곱셈수
-
+- 가정 : (m by n) 행렬과 (n x l) 행렬의 곱셈에 O(mnl)의 곱셈이 필요하다.
+- 입력 : 곱셈해야 되는 행렬 개수 N와 N개의 행렬
+- 출력 : 곱셈을 최소로하는 행렬 곱의 순서와 최소화된 곱셈수
 - 참고 : http://destiny738.tistory.com/209
 
 ### 그래프의 최단경로 문제(Dijkstra’s shortest path algorithm, Floyd-warshall algorithm)
-
 - 참고 : https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
          https://en.wikipedia.org/wiki/Floyd–Warshall_algorithm
