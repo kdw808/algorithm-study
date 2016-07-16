@@ -16,7 +16,7 @@
 #### 2016.07.31
 - [수치해석] 꽃가루 화석 (FOSSIL) [[link](https://algospot.com/judge/problem/read/FOSSIL)] : 이성현 
 - [정수론] 비밀번호 486 (PASS486) [[link](https://algospot.com/judge/problem/read/PASS486)] : 최선정 
-- [정수론] 마법의 약 (POTION) [[link](https://algospot.com/judge/problem/read/POTION)] : 신재욱 
+- [조합 탐색] 카쿠로  (KAKURO2) [[link](https://algospot.com/judge/problem/read/KAKURO2)] : 신재욱 
 
 #### 2016.07.24
 - [결정문제] 캐나다 여행 (CANADATRIP) [[link](https://algospot.com/judge/problem/read/CANADATRIP)] : 조혜규 
@@ -26,7 +26,7 @@
 #### 2016.07.17
 - [탐욕법] 미나스 아노르 (MINASTIRITH) [[link](https://algospot.com/judge/problem/read/MINASTIRITH)] : 이성현
 - [조합 탐색] 알러지가 심한 친구들 (ALLERGY) [[link](https://algospot.com/judge/problem/read/ALLERGY)] : 최선정
-- [조합 탐색] 카쿠로  (KAKURO2) [[link](https://algospot.com/judge/problem/read/KAKURO2)] : 신재욱 
+- [정수론] 마법의 약 (POTION) [[link](https://algospot.com/judge/problem/read/POTION)] : 신재욱 
 
 #### 2016.07.10
 - [동적계획법 테크닉] 회전초밥 (SUSHI) [[link](https://algospot.com/judge/problem/read/SUSHI)] : 천희진
