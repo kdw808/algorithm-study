@@ -19,13 +19,13 @@
 - [조합 탐색] 카쿠로  (KAKURO2) [[link](https://algospot.com/judge/problem/read/KAKURO2)] : 신재욱 
 
 #### 2016.07.24
-- [결정문제] 캐나다 여행 (CANADATRIP) [[link](https://algospot.com/judge/problem/read/CANADATRIP)] : 조혜규 
+- [조합 탐색] 알러지가 심한 친구들 (ALLERGY) [[link](https://algospot.com/judge/problem/read/ALLERGY)] : 최선정
 - [결정문제] 수강 철회 (WITHDRAWAL) [[link](https://algospot.com/judge/problem/read/WITHDRAWAL)] : 천희진 
-- [수치해석] 승률 올리기르 (RATIO, ) [[link](https://algospot.com/judge/problem/read/RATIO)] : 김대원
+- [수치해석] 승률 올리기르 (RATIO) [[link](https://algospot.com/judge/problem/read/RATIO)] : 김대원
 
 #### 2016.07.17
+- [결정문제] 캐나다 여행 (CANADATRIP) [[link](https://algospot.com/judge/problem/read/CANADATRIP)] : 조혜규
 - [탐욕법] 미나스 아노르 (MINASTIRITH) [[link](https://algospot.com/judge/problem/read/MINASTIRITH)] : 이성현
-- [조합 탐색] 알러지가 심한 친구들 (ALLERGY) [[link](https://algospot.com/judge/problem/read/ALLERGY)] : 최선정
 - [정수론] 마법의 약 (POTION) [[link](https://algospot.com/judge/problem/read/POTION)] : 신재욱 
 
 #### 2016.07.10
