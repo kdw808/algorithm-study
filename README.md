@@ -21,7 +21,7 @@
 #### 2016.07.24
 - [조합 탐색] 알러지가 심한 친구들 (ALLERGY) [[link](https://algospot.com/judge/problem/read/ALLERGY)] : 최선정
 - [결정문제] 수강 철회 (WITHDRAWAL) [[link](https://algospot.com/judge/problem/read/WITHDRAWAL)] : 천희진 
-- [수치해석] 승률 올리기르 (RATIO) [[link](https://algospot.com/judge/problem/read/RATIO)] : 김대원
+- [수치해석] 승률 올리기 (RATIO) [[link](https://algospot.com/judge/problem/read/RATIO)] : 김대원
 
 #### 2016.07.17
 - [결정문제] 캐나다 여행 (CANADATRIP) [[link](https://algospot.com/judge/problem/read/CANADATRIP)] : 조혜규
