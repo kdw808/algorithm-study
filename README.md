@@ -13,17 +13,17 @@
  5. 발표순서 : 이성현 -> 최선정 -> 신재욱 -> 조혜규 -> 천희진 -> 김대원
  
 ## 일정
-#### 2016.08.14
+#### 2016.08.21
 - [비스마스크] 졸업 학기 (GRADUATION) [[link](https://algospot.com/judge/problem/read/GRADUATION)] : 이성현 
 - [부분 합] 크리스마스 인형 (CHRISTMAS) [[link](https://algospot.com/judge/problem/read/CHRISTMAS)] : 최선정
 - [선형 자료 구조] 조세푸스 문제 (JOSEPHUS) [[link](https://algospot.com/judge/problem/read/JOSEPHUS)] : 신재욱 
 
-#### 2016.08.07
+#### 2016.08.14
 - [정수론] 마법의 약 (POTION) [[link](https://algospot.com/judge/problem/read/POTION)] : 조혜규 
 - [계산기하] 보물섬 (TREASURE) [[link](https://algospot.com/judge/problem/read/TREASURE)] : 천희진 
 - [조합 탐색] 카쿠로  (KAKURO2) [[link](https://algospot.com/judge/problem/read/KAKURO2)] : 신재욱 
 
-#### 2016.07.31
+#### 2016.08.07
 - [수치해석] 꽃가루 화석 (FOSSIL) [[link](https://algospot.com/judge/problem/read/FOSSIL)] : 이성현 
 - [정수론] 비밀번호 486 (PASS486) [[link](https://algospot.com/judge/problem/read/PASS486)] : 최선정 
 - [계산기하] 너드인가, 너드가 아닌가? (NERDS) [[link](https://algospot.com/judge/problem/read/NERDS)] : 김대원 
