@@ -27,7 +27,7 @@
 - [큐와 스택, 데크] 외계 신호 분석 (ITES) [[link](https://algospot.com/judge/problem/read/ITES)] : 조혜규
 - [문자열] 말버릇 (HABIT) [[link](https://algospot.com/judge/problem/read/HABIT)] : 천희진
 - [트리의 구현과 순회] 요새 (FORTRESS) [[link](https://algospot.com/judge/problem/read/FORTRESS)] : 김대원
-- 
+
 #### 2016.08.28
 - [비스마스크] 졸업 학기 (GRADUATION) [[link](https://algospot.com/judge/problem/read/GRADUATION)] : 이성현 
 - [부분 합] 크리스마스 인형 (CHRISTMAS) [[link](https://algospot.com/judge/problem/read/CHRISTMAS)] : 최선정
