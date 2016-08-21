@@ -13,6 +13,21 @@
  5. 발표순서 : 이성현 -> 최선정 -> 신재욱 -> 조혜규 -> 천희진 -> 김대원
  
 ## 일정
+#### 2016.09.18
+- [구간 트리] 삽입 정렬 시간 재기 (MEASURETIME) [[link](https://algospot.com/judge/problem/read/MEASURETIME)] : 조혜규
+- [상호 배타적 집합] 에디터 전쟁 (EDITORWARS) [[link](https://algospot.com/judge/problem/read/EDITORWARS)] : 천희진
+- [트라이] 안녕히, 그리고 물고기는 고마웠어요 (SOLONG) [[link](https://algospot.com/judge/problem/read/SOLONG)] : 김대원
+
+#### 2016.09.11
+- [이진 검색 트리] 상입 정렬 뒤집기 (INSERTION) [[link](https://algospot.com/judge/problem/read/INSERTION)] : 이성현 
+- [우선순위 큐와 힙] 변화하는 중간 값 (RUNNINGMEDIAN) [[link](https://algospot.com/judge/problem/read/RUNNINGMEDIAN)] : 최선정
+- [구간 트리] 등산로 (MORDOR) [[link](https://algospot.com/judge/problem/read/MORDOR)] : 신재욱 
+
+#### 2016.09.04
+- [큐와 스택, 데크] 외계 신호 분석 (ITES) [[link](https://algospot.com/judge/problem/read/ITES)] : 조혜규
+- [문자열] 말버릇 (HABIT) [[link](https://algospot.com/judge/problem/read/HABIT)] : 천희진
+- [트리의 구현과 순회] 요새 (FORTRESS) [[link](https://algospot.com/judge/problem/read/FORTRESS)] : 김대원
+- 
 #### 2016.08.28
 - [비스마스크] 졸업 학기 (GRADUATION) [[link](https://algospot.com/judge/problem/read/GRADUATION)] : 이성현 
 - [부분 합] 크리스마스 인형 (CHRISTMAS) [[link](https://algospot.com/judge/problem/read/CHRISTMAS)] : 최선정
