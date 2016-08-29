@@ -10,33 +10,18 @@
  2. 알고스팟에 통과한 답안은 '**{알고스팟 ID}_{문제이름:소문자}' 같은 형태의 파일로 commit &  push
  3. 각 문제마다 담당자 1명씩 배치하여 문제 풀이(코드리뷰)를 발표 (발표는 1시간내)
  4. 문제풀이와 함께 각 문제의 토픽에 해당하는 알고리즘에 대한 간략한 설명
- 5. 발표순서 : 이성현 -> 최선정 -> 신재욱 -> 조혜규 -> 천희진 -> 김대원
+ 5. 발표순서 : 이성현 -> 최선정 -> 조혜규 -> 천희진 -> 김대원
  
 ## 일정
-#### 2016.09.25
-- [구간 트리] 삽입 정렬 시간 재기 (MEASURETIME) [[link](https://algospot.com/judge/problem/read/MEASURETIME)] : 조혜규
-- [상호 배타적 집합] 에디터 전쟁 (EDITORWARS) [[link](https://algospot.com/judge/problem/read/EDITORWARS)] : 천희진
-- [트라이] 안녕히, 그리고 물고기는 고마웠어요 (SOLONG) [[link](https://algospot.com/judge/problem/read/SOLONG)] : 김대원
-
-#### 2016.09.18
-- [이진 검색 트리] 상입 정렬 뒤집기 (INSERTION) [[link](https://algospot.com/judge/problem/read/INSERTION)] : 이성현 
-- [우선순위 큐와 힙] 변화하는 중간 값 (RUNNINGMEDIAN) [[link](https://algospot.com/judge/problem/read/RUNNINGMEDIAN)] : 최선정
-- [구간 트리] 등산로 (MORDOR) [[link](https://algospot.com/judge/problem/read/MORDOR)] : 신재욱 
-
 #### 2016.09.11
-- [큐와 스택, 데크] 외계 신호 분석 (ITES) [[link](https://algospot.com/judge/problem/read/ITES)] : 조혜규
-- [문자열] 말버릇 (HABIT) [[link](https://algospot.com/judge/problem/read/HABIT)] : 천희진
-- [트리의 구현과 순회] 요새 (FORTRESS) [[link](https://algospot.com/judge/problem/read/FORTRESS)] : 김대원
+- [비스마스크] 졸업 학기 (GRADUATION) [[link](https://algospot.com/judge/problem/read/GRADUATION)] : 이성현, 천희진 
+- [부분 합] 크리스마스 인형 (CHRISTMAS) [[link](https://algospot.com/judge/problem/read/CHRISTMAS)] : 최선정, 김대원
+- [선형 자료 구조] 조세푸스 문제 (JOSEPHUS) [[link](https://algospot.com/judge/problem/read/JOSEPHUS)] : 조혜규, 이성현 
 
 #### 2016.09.04
-- [비스마스크] 졸업 학기 (GRADUATION) [[link](https://algospot.com/judge/problem/read/GRADUATION)] : 이성현 
-- [부분 합] 크리스마스 인형 (CHRISTMAS) [[link](https://algospot.com/judge/problem/read/CHRISTMAS)] : 최선정
-- [선형 자료 구조] 조세푸스 문제 (JOSEPHUS) [[link](https://algospot.com/judge/problem/read/JOSEPHUS)] : 신재욱 
-
-#### 2016.08.28
-- [문자열] 재하의 금고 (JAEHASAFE) [[link](https://algospot.com/judge/problem/read/JAEHASAFE)] : 조혜규 
-- [계산기하] 보물섬 (TREASURE) [[link](https://algospot.com/judge/problem/read/TREASURE)] : 천희진 
-- [조합 탐색] 카쿠로  (KAKURO2) [[link](https://algospot.com/judge/problem/read/KAKURO2)] : 신재욱 
+- [문자열] 재하의 금고 (JAEHASAFE) [[link](https://algospot.com/judge/problem/read/JAEHASAFE)] : 조혜규, 이성현
+- [계산기하] 보물섬 (TREASURE) [[link](https://algospot.com/judge/problem/read/TREASURE)] : 천희진, 최선정
+- [조합 탐색] 카쿠로  (KAKURO2) [[link](https://algospot.com/judge/problem/read/KAKURO2)] :  김대원, 조혜규
 
 #### 2016.08.07
 - [수치해석] 꽃가루 화석 (FOSSIL) [[link](https://algospot.com/judge/problem/read/FOSSIL)] : 이성현 
@@ -72,6 +57,27 @@
 - 시계 맞추기(CLOCKSYNC) [[link](https://algospot.com/judge/problem/read/CLOCKSYNC)] : 천희진
 
 
+
+
+
+
+=================
+
+
+#### 2016.10.02
+- [구간 트리] 삽입 정렬 시간 재기 (MEASURETIME) [[link](https://algospot.com/judge/problem/read/MEASURETIME)] : 
+- [상호 배타적 집합] 에디터 전쟁 (EDITORWARS) [[link](https://algospot.com/judge/problem/read/EDITORWARS)] : 
+- [트라이] 안녕히, 그리고 물고기는 고마웠어요 (SOLONG) [[link](https://algospot.com/judge/problem/read/SOLONG)] : 
+
+#### 2016.09.25
+- [이진 검색 트리] 상입 정렬 뒤집기 (INSERTION) [[link](https://algospot.com/judge/problem/read/INSERTION)] :  
+- [우선순위 큐와 힙] 변화하는 중간 값 (RUNNINGMEDIAN) [[link](https://algospot.com/judge/problem/read/RUNNINGMEDIAN)] : 
+- [구간 트리] 등산로 (MORDOR) [[link](https://algospot.com/judge/problem/read/MORDOR)] :  
+
+#### 2016.09.18
+- [큐와 스택, 데크] 외계 신호 분석 (ITES) [[link](https://algospot.com/judge/problem/read/ITES)] : 
+- [문자열] 말버릇 (HABIT) [[link](https://algospot.com/judge/problem/read/HABIT)] : 
+- [트리의 구현과 순회] 요새 (FORTRESS) [[link](https://algospot.com/judge/problem/read/FORTRESS)] : 
 
 
 
