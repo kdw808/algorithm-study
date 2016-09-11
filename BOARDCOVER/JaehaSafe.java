@@ -68,7 +68,7 @@ public class JaehaSafe {
 
     // KMP Search
     // 시간 복잡 : O(|H|)최대, 바늘 N길이는 상관없다.
-	// H의 부분 문자열로 N이 출현하는 시작 위치들을 모두 반환한다.
+	// H의 부분 문자열로 N이 출현하는 시작 위치들을
     // 전체 시간 복잡도는 O(|N| * [H])
     static List<Integer> kmpSearch(final String H, final String N) {
         int n = H.length(), m = N.length();
