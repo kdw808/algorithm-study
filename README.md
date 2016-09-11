@@ -13,8 +13,8 @@
  5. 발표순서 : 이성현 -> 조혜규 -> 천희진 -> 김대원
  
 ## 일정
-#### 2016.09.18
-*이번모임은 16:00시 입니다*
+#### 2016.09.25
+- *이번모임은 16:00시 입니다*
 - [큐와 스택, 데크] 외계 신호 분석 (ITES) [[link](https://algospot.com/judge/problem/read/ITES)] : 조혜규, 이성현
 - [문자열] 말버릇 (HABIT) [[link](https://algospot.com/judge/problem/read/HABIT)] : 천희진, 조혜규
 - [부분 합] 크리스마스 인형 (CHRISTMAS) [[link](https://algospot.com/judge/problem/read/CHRISTMAS)] : 최선정, 김대원
