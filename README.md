@@ -76,14 +76,13 @@
 =================
 
 
-#### 2016.10.02
+- [우선순위 큐와 힙] 변화하는 중간 값 (RUNNINGMEDIAN) [[link](https://algospot.com/judge/problem/read/RUNNINGMEDIAN)] : 
+- [구간 트리] 등산로 (MORDOR) [[link](https://algospot.com/judge/problem/read/MORDOR)] :  
 - [구간 트리] 삽입 정렬 시간 재기 (MEASURETIME) [[link](https://algospot.com/judge/problem/read/MEASURETIME)] : 
 - [상호 배타적 집합] 에디터 전쟁 (EDITORWARS) [[link](https://algospot.com/judge/problem/read/EDITORWARS)] : 
 - [트라이] 안녕히, 그리고 물고기는 고마웠어요 (SOLONG) [[link](https://algospot.com/judge/problem/read/SOLONG)] : 
 
-#### 2016.09.25
-- [우선순위 큐와 힙] 변화하는 중간 값 (RUNNINGMEDIAN) [[link](https://algospot.com/judge/problem/read/RUNNINGMEDIAN)] : 
-- [구간 트리] 등산로 (MORDOR) [[link](https://algospot.com/judge/problem/read/MORDOR)] :  
+
 
 
 
