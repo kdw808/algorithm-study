@@ -10,15 +10,20 @@
  2. 알고스팟에 통과한 답안은 '**{알고스팟 ID}_{문제이름:소문자}' 같은 형태의 파일로 commit &  push
  3. 각 문제마다 담당자 1명씩 배치하여 문제 풀이(코드리뷰)를 발표 (발표는 1시간내)
  4. 문제풀이와 함께 각 문제의 토픽에 해당하는 알고리즘에 대한 간략한 설명
- 5. 발표순서 : 이성현 -> 조혜규 -> 천희진 -> 김대원
+ 5. 발표순서 : 이성현 -> 조혜규 -> 천희진 -> 김대원 ->
  
 ## 일정
+#### 2016.10.02
+- [트리의 구현과 순회] 트리 순회 순서 변경 (TRAVERSAL) [[link](https://algospot.com/judge/problem/read/TRAVERSAL)] : 김대원
+- [트리의 구현과 순회] 요새 (FORTRESS) [[link](https://algospot.com/judge/problem/read/FORTRESS)] : 이성현
+- [이진 검색 트리] 상입 정렬 뒤집기 (INSERTION) [[link](https://algospot.com/judge/problem/read/INSERTION)] : 조혜규 
+- 혜규님이 공유해주신 문제 2번
+
 #### 2016.09.25
 - *이번모임은 16:00시 입니다*
 - [큐와 스택, 데크] 외계 신호 분석 (ITES) [[link](https://algospot.com/judge/problem/read/ITES)] : 조혜규, 이성현
 - [문자열] 말버릇 (HABIT) [[link](https://algospot.com/judge/problem/read/HABIT)] : 천희진, 조혜규
 - [부분 합] 크리스마스 인형 (CHRISTMAS) [[link](https://algospot.com/judge/problem/read/CHRISTMAS)] : 최선정, 김대원
-- 혜규님이 공유해주신 문제 2번
 
 
 #### 2016.09.11
@@ -77,8 +82,6 @@
 - [트라이] 안녕히, 그리고 물고기는 고마웠어요 (SOLONG) [[link](https://algospot.com/judge/problem/read/SOLONG)] : 
 
 #### 2016.09.25
-- [트리의 구현과 순회] 요새 (FORTRESS) [[link](https://algospot.com/judge/problem/read/FORTRESS)] : 
-- [이진 검색 트리] 상입 정렬 뒤집기 (INSERTION) [[link](https://algospot.com/judge/problem/read/INSERTION)] :  
 - [우선순위 큐와 힙] 변화하는 중간 값 (RUNNINGMEDIAN) [[link](https://algospot.com/judge/problem/read/RUNNINGMEDIAN)] : 
 - [구간 트리] 등산로 (MORDOR) [[link](https://algospot.com/judge/problem/read/MORDOR)] :  
 
