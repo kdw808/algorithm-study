@@ -18,5 +18,5 @@ N ( 1<= N<=50,000,000)
 
 ## 최적화
 1. head가 늘어났을때 tail이 줄어드는 일은 없다. -> head가 증가했을때 후보구간의 tail을 찾을떄 head에서 시작하는것이 아니라 마지막에 찾았던 tail에서 시작한다.
+![GitHub Logo](http://book.algospot.com/static/img/rolling-windows.png)
 
-http://book.algospot.com/static/img/rolling-windows.png
