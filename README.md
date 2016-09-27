@@ -13,7 +13,7 @@
  5. 발표순서 : 이성현 -> 조혜규 -> 천희진 -> 김대원 -> 김상겸 -> 정찬훈
  
 ## 일정
-#### 2016.10.02
+#### 2016.10.09
 - [트리의 구현과 순회] 트리 순회 순서 변경 (TRAVERSAL) [[link](https://algospot.com/judge/problem/read/TRAVERSAL)] : 김대원
 - [트리의 구현과 순회] 요새 (FORTRESS) [[link](https://algospot.com/judge/problem/read/FORTRESS)] : 이성현
 - [이진 검색 트리] 상입 정렬 뒤집기 (INSERTION) [[link](https://algospot.com/judge/problem/read/INSERTION)] : 조혜규 
