@@ -34,22 +34,22 @@ public class MeasureTime1 {
         }
 
         // 부분합(tree[1] ~ tree[index]
-        public int rangeSum(int index) {
+        public int rangeSum(int pos) {
             int sum = 0;
-            while (index > 0) {
-                sum += tree[index];
+            while (pos > 0) {
+                sum += tree[pos];
 
-                index -= index & (-index);
+                pos -= pos & (-pos);
             }
 
             return sum;
         }
 
-        public void add(int index, int value) {
-            while (index < tree.length) {
-                tree[index] += value;
+        public void add(int pos, int value) {
+            while (pos < tree.length) {
+                tree[pos] += value;
 
-                index += index & (-index);
+                pos += pos & (-pos);
             }
         }
     }
