@@ -10,10 +10,14 @@
  2. 알고스팟에 통과한 답안은 '**{알고스팟 ID}_{문제이름:소문자}' 같은 형태의 파일로 commit &  push
  3. 각 문제마다 담당자 1명씩 배치하여 문제 풀이(코드리뷰)를 발표 (발표는 1시간내)
  4. 문제풀이와 함께 각 문제의 토픽에 해당하는 알고리즘에 대한 간략한 설명
- 5. 발표순서 : 이성현 -> 조혜규 -> 천희진 -> 김대원 -> 김상겸 -> 정찬훈
+ 5. 발표순서 : 이성현 -> 조혜규 -> 천희진 -> 김대원 -> 김상겸 -> 종 -> 정찬훈
  
 ## 일정
-#### 2016.10.09
+#### 2016.10.23
+- [우선순위 큐와 힙] 변화하는 중간 값 (RUNNINGMEDIAN) [[link](https://algospot.com/judge/problem/read/RUNNINGMEDIAN)] : 김대원
+- [구간 트리] 등산로 (MORDOR) [[link](https://algospot.com/judge/problem/read/MORDOR)] : 김상겸
+
+#### 2016.10.16
 - [트리의 구현과 순회] 트리 순회 순서 변경 (TRAVERSAL) [[link](https://algospot.com/judge/problem/read/TRAVERSAL)] : 김대원
 - [트리의 구현과 순회] 요새 (FORTRESS) [[link](https://algospot.com/judge/problem/read/FORTRESS)] : 이성현
 - [이진 검색 트리] 상입 정렬 뒤집기 (INSERTION) [[link](https://algospot.com/judge/problem/read/INSERTION)] : 조혜규 
@@ -76,8 +80,6 @@
 =================
 
 
-- [우선순위 큐와 힙] 변화하는 중간 값 (RUNNINGMEDIAN) [[link](https://algospot.com/judge/problem/read/RUNNINGMEDIAN)] : 
-- [구간 트리] 등산로 (MORDOR) [[link](https://algospot.com/judge/problem/read/MORDOR)] :  
 - [구간 트리] 삽입 정렬 시간 재기 (MEASURETIME) [[link](https://algospot.com/judge/problem/read/MEASURETIME)] : 
 - [상호 배타적 집합] 에디터 전쟁 (EDITORWARS) [[link](https://algospot.com/judge/problem/read/EDITORWARS)] : 
 - [트라이] 안녕히, 그리고 물고기는 고마웠어요 (SOLONG) [[link](https://algospot.com/judge/problem/read/SOLONG)] : 
