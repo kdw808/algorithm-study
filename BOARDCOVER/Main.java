@@ -27,7 +27,7 @@ public class Main {
 	 * ┐ , ┘, └, ┌
 	 * 블럭의 상대경로
 	 */
-	static final int[][][] blockLocation = {{{0, 0}, {0, 1}, {1, 1}}, {{0, 0}, {1, 0}, {1, -11}}, {{0, 0}, {1, 0}, {1, 1}}, {{0, 0}, {0, 1}, {1, 0}}};
+	static final int[][][] blockLocation = {{{0, 0}, {0, 1}, {1, 1}}, {{0, 0}, {1, 0}, {1, -1}}, {{0, 0}, {1, 0}, {1, 1}}, {{0, 0}, {0, 1}, {1, 0}}};
 
 	public static void main(String[] args) {
 
@@ -88,7 +88,6 @@ public class Main {
 			System.err.println("first : 숫자만, 정수 30이하");
 			System.err.println("second : 정수 두개(높이 폭), 공백으로 구분, 1보다크고 20보다 작아야함");
 			System.err.println("third : H(높이)만큼 #(검정), .(흰) 바둑판을 만든다.(높이랑 폭이 맞아야한다, 1 <= 흰칸수 <= 50)");
-			System.exit(-1);
 		} finally {
 			System.exit(-1);
 		}
