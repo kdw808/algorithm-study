@@ -14,9 +14,12 @@
  
 ## 일정
 #### 2016.10.23
-- [우선순위 큐와 힙] 변화하는 중간 값 (RUNNINGMEDIAN) [[link](https://algospot.com/judge/problem/read/RUNNINGMEDIAN)] : 김대원, 이성현
 - [구간 트리] 등산로 (MORDOR) [[link](https://algospot.com/judge/problem/read/MORDOR)] : 김상겸, 조혜규
+- [구간 트리] 삽입 정렬 시간 재기 (MEASURETIME) [[link](https://algospot.com/judge/problem/read/MEASURETIME)] : 
 - 문제 1번
+
+#### 2016.10.30
+- [우선순위 큐와 힙] 변화하는 중간 값 (RUNNINGMEDIAN) [[link](https://algospot.com/judge/problem/read/RUNNINGMEDIAN)] : 김대원, 이성현
 
 #### 2016.10.16
 - [트리의 구현과 순회] 트리 순회 순서 변경 (TRAVERSAL) [[link](https://algospot.com/judge/problem/read/TRAVERSAL)] : 김대원
@@ -81,7 +84,6 @@
 =================
 
 
-- [구간 트리] 삽입 정렬 시간 재기 (MEASURETIME) [[link](https://algospot.com/judge/problem/read/MEASURETIME)] : 
 - [상호 배타적 집합] 에디터 전쟁 (EDITORWARS) [[link](https://algospot.com/judge/problem/read/EDITORWARS)] : 
 - [트라이] 안녕히, 그리고 물고기는 고마웠어요 (SOLONG) [[link](https://algospot.com/judge/problem/read/SOLONG)] : 
 
