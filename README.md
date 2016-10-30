@@ -15,7 +15,7 @@
 ## 일정
 #### 2016.11.06
 - [구간 트리] 등산로 (MORDOR) [[link](https://algospot.com/judge/problem/read/MORDOR)] : 김상겸, 조혜규
-- [구간 트리] 삽입 정렬 시간 재기 (MEASURETIME) [[link](https://algospot.com/judge/problem/read/MEASURETIME)] : 김형종, 천희진
+- [구간 트리] 족보 탐험 (FAMILYTREE) [[link](https://algospot.com/judge/problem/read/FAMILYTREE)] : 김형종, 천희진
 - 다음 문제 1번 - 정찬훈
 
 #### 2016.10.30
