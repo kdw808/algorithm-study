@@ -10,13 +10,13 @@
  2. 알고스팟에 통과한 답안은 '**{알고스팟 ID}_{문제이름:소문자}' 같은 형태의 파일로 commit &  push
  3. 각 문제마다 담당자 1명씩 배치하여 문제 풀이(코드리뷰)를 발표 (발표는 1시간내)
  4. 문제풀이와 함께 각 문제의 토픽에 해당하는 알고리즘에 대한 간략한 설명
- 5. 발표순서 : 이성현 -> 조혜규 -> 천희진 -> 김대원 -> 김상겸 -> 김종 -> 정찬훈
+ 5. 발표순서 : 이성현 -> 조혜규 -> 천희진 -> 김대원 -> 김상겸 -> 김형종 -> 정찬훈
  
 ## 일정
-#### 2016.10.23
+#### 2016.11.06
 - [구간 트리] 등산로 (MORDOR) [[link](https://algospot.com/judge/problem/read/MORDOR)] : 김상겸, 조혜규
-- [구간 트리] 삽입 정렬 시간 재기 (MEASURETIME) [[link](https://algospot.com/judge/problem/read/MEASURETIME)] : 
-- 문제 1번
+- [구간 트리] 삽입 정렬 시간 재기 (MEASURETIME) [[link](https://algospot.com/judge/problem/read/MEASURETIME)] : 김형종, 천희진
+- 다음 문제 1번 - 정찬훈
 
 #### 2016.10.30
 - [우선순위 큐와 힙] 변화하는 중간 값 (RUNNINGMEDIAN) [[link](https://algospot.com/judge/problem/read/RUNNINGMEDIAN)] : 김대원, 이성현
