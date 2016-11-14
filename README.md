@@ -10,13 +10,17 @@
  2. 알고스팟에 통과한 답안은 '**{알고스팟 ID}_{문제이름:소문자}' 같은 형태의 파일로 commit &  push
  3. 각 문제마다 담당자 1명씩 배치하여 문제 풀이(코드리뷰)를 발표 (발표는 1시간내)
  4. 문제풀이와 함께 각 문제의 토픽에 해당하는 알고리즘에 대한 간략한 설명
- 5. 발표순서 : 이성현 -> 조혜규 -> 천희진 -> 김대원 -> 김상겸 -> 김형종 -> 정찬훈
+ 5. 발표순서 : 이성현 -> 조혜규 -> 천희진 -> 김대원 -> 김형종 -> 정찬훈
  
 ## 일정
-#### 2016.11.06
+#### 2016.11.20
+- [상호 배타적 집합] 에디터 전쟁 (EDITORWARS) [[link](https://algospot.com/judge/problem/read/EDITORWARS)] : 이성현, 김대원
+- [트라이] 안녕히, 그리고 물고기는 고마웠어요 (SOLONG) [[link](https://algospot.com/judge/problem/read/SOLONG)] : 조혜규, 천희진
+- [구간 트리] 족보 탐험 (FAMILYTREE) [[link](https://algospot.com/judge/problem/read/FAMILYTREE)] (구간 트리 정리) : 김형종
+
+#### 2016.11.13
 - [구간 트리] 등산로 (MORDOR) [[link](https://algospot.com/judge/problem/read/MORDOR)] : 김상겸, 이성현
 - [구간 트리] 족보 탐험 (FAMILYTREE) [[link](https://algospot.com/judge/problem/read/FAMILYTREE)] : 김형종, 김대원
-- 다음 문제 1번 - 정찬훈
 
 #### 2016.10.30
 - [우선순위 큐와 힙] 변화하는 중간 값 (RUNNINGMEDIAN) [[link](https://algospot.com/judge/problem/read/RUNNINGMEDIAN)] : 김대원, 이성현
@@ -84,8 +88,7 @@
 =================
 
 
-- [상호 배타적 집합] 에디터 전쟁 (EDITORWARS) [[link](https://algospot.com/judge/problem/read/EDITORWARS)] : 
-- [트라이] 안녕히, 그리고 물고기는 고마웠어요 (SOLONG) [[link](https://algospot.com/judge/problem/read/SOLONG)] : 
+
 
 
 
