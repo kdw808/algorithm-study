@@ -1,0 +1,47 @@
+import java.util.HashMap;
+import java.util.Map;
+
+/**
+ * Created by haekyu.cho@nhnent.com
+ */
+public class TrieNode {
+
+    private Map<Character, TrieNode> children;
+    private String text;
+    private boolean terminal;
+
+    public TrieNode() {
+        children = new HashMap<>();
+        text = "";
+        terminal = false;
+    }
+
+    public TrieNode(String text) {
+        this();
+        this.text = text;
+    }
+
+    public Map<Character, TrieNode> getChildren() {
+        return children;
+    }
+
+    public void setChildren(Map<Character, TrieNode> children) {
+        this.children = children;
+    }
+
+    public String getText() {
+        return text;
+    }
+
+    public void setText(String text) {
+        this.text = text;
+    }
+
+    public boolean isTerminal() {
+        return terminal;
+    }
+
+    public void setTerminal(boolean terminal) {
+        this.terminal = terminal;
+    }
+}
