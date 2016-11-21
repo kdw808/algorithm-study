@@ -1,0 +1,164 @@
+import java.util.*;
+
+/**
+ * Created by haekyu.cho@nhnent.com
+ */
+public class TrieAlgorithm {
+
+    private TrieNode root;
+    private int size;
+
+    public TrieAlgorithm() {
+        root = new TrieNode();
+        size = 0;
+    }
+
+    public boolean add(String text) {
+        TrieNode node = root;
+
+        char[] chars = text.toCharArray();
+        int cnt = 0;
+
+        while (cnt < chars.length) {
+            Set<Character> childs = node.getChildren().keySet();
+
+            // 자식에 문자가 없으면 자식노드를 추가한다
+            if (!childs.contains(chars[cnt])) {
+                insertChar(node, chars[cnt]);
+
+                // 입력된 문자열과 길이가 같으면
+                if (cnt == chars.length - 1) {
+                    getChild(node, chars[cnt]).setTerminal(true);
+                    size++;
+                    return true;
+                }
+            }
+
+            node = getChild(node, chars[cnt]);
+            if (node.getText().equals(text) && !node.isTerminal()) {
+                node.setTerminal(true);
+                size++;
+                return true;
+            }
+
+            cnt++;
+        }
+
+        return false;
+    }
+
+    private TrieNode getChild(TrieNode node, Character c) {
+        return node.getChildren().get(c);
+    }
+
+    // 자식노드에 문자 추가
+    private TrieNode insertChar(TrieNode node, Character c) {
+        if (node.getChildren().containsKey(c)) {
+            return null;
+        }
+
+        TrieNode next = new TrieNode(node.getText() + c.toString());
+        node.getChildren().put(c, next);
+
+        return next;
+    }
+
+    // 시작위치에서 부분매치 == startsWith
+	// log(M)
+    public boolean find(String text) {
+        Map<Character, TrieNode> children = root.getChildren();
+        TrieNode node = null;
+
+        for (int i = 0; i < text.length(); i++) {
+            char c = text.charAt(i);
+
+            if (children.containsKey(c)) {
+                node = children.get(c);
+                children = node.getChildren();
+            } else {
+                return false;
+            }
+        }
+
+        return true;
+    }
+
+    public boolean remove(String text) {
+        return findNode(root, text);
+    }
+
+    private boolean findNode(TrieNode node, String s) {
+        Map<Character, TrieNode> children = root.getChildren();
+        TrieNode parent;
+
+        for (int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
+            if (children.containsKey(getClass())) {
+                parent = node;
+                node = children.get(c);
+                children = node.getChildren();
+
+                if (node.getText().equals(s)) {
+                    parent.getChildren().remove(c);
+                    node = null;
+
+                    return true;
+                }
+            }
+        }
+
+        return false;
+    }
+
+    public int getSize() {
+        return size;
+    }
+
+    private final Map<Integer, List<String>> resultMap = new HashMap<>();
+
+    private void prettyPrint(TrieNode node, final int depth) {
+        final Map<Character, TrieNode> map = node.getChildren();
+        Set<Character> set = map.keySet();
+
+        set.stream().forEach(c -> {
+            TrieNode childNode = map.get(c);
+            int key = depth + 1;
+
+            if (resultMap.containsKey(key)) {
+                List<String> list = resultMap.get(key);
+                list.add(childNode.getText());
+            } else {
+                List<String> list = new ArrayList<>();
+                list.add(childNode.getText());
+                resultMap.put(key, list);
+            }
+
+            prettyPrint(childNode, depth + 1);
+        });
+    }
+
+    public void print(TrieNode node, final int depth) {
+        prettyPrint(node, depth);
+        System.out.println("1  [ROOT]");
+
+        Set<Integer> set = resultMap.keySet();
+        set.stream().forEach(i -> {
+            System.out.println(i + "  " + resultMap.get(i));
+        });
+    }
+
+    // 테스트
+    public static void main(String[] args) {
+        TrieAlgorithm trie = new TrieAlgorithm();
+        trie.add("BE");
+        trie.add("BET");
+        trie.add("BUS");
+        trie.add("TEA");
+        trie.add("TEN");
+        trie.print(trie.root, 1);
+
+        System.out.println(trie.find("TE"));
+        System.out.println(trie.find("BUS"));
+        System.out.println(trie.find("BP"));
+    }
+}
