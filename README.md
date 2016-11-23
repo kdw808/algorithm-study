@@ -27,6 +27,7 @@
 - [구간 트리] 등산로 (MORDOR) [[link](https://algospot.com/judge/problem/read/MORDOR)] : 김상겸, 이성현
 - [구간 트리] 족보 탐험 (FAMILYTREE) [[link](https://algospot.com/judge/problem/read/FAMILYTREE)] : 김형종, 김대원
 
+
 #### 2016.10.30
 - [우선순위 큐와 힙] 변화하는 중간 값 (RUNNINGMEDIAN) [[link](https://algospot.com/judge/problem/read/RUNNINGMEDIAN)] : 김대원, 이성현
 
@@ -92,9 +93,15 @@
 
 =================
 
-#### 2016.12.11- [상호 배타적 집합] 에디터 전쟁 (EDITORWARS) [[link](https://algospot.com/judge/problem/read/EDITORWARS)] : 이성현, 김대원- [트라이] 안녕히, 그리고 물고기는 고마웠어요 (SOLONG) [[link](https://algospot.com/judge/problem/read/SOLONG)] : 조혜규, 천희진- [구간 트리] 족보 탐험 (FAMILYTREE) [[link](https://algospot.com/judge/problem/read/FAMILYTREE)] (구간 트리 정리) : 김형종
+#### 2016.12.11
+- [상호 배타적 집합] 에디터 전쟁 (EDITORWARS) [[link](https://algospot.com/judge/problem/read/EDITORWARS)] : 이성현, 김대원
+- [트라이] 안녕히, 그리고 물고기는 고마웠어요 (SOLONG) [[link](https://algospot.com/judge/problem/read/SOLONG)] : 조혜규, 천희진
+- [구간 트리] 족보 탐험 (FAMILYTREE) [[link](https://algospot.com/judge/problem/read/FAMILYTREE)] (구간 트리 정리) : 김형종
 
-#### 2016.12.04- [상호 배타적 집합] 에디터 전쟁 (EDITORWARS) [[link](https://algospot.com/judge/problem/read/EDITORWARS)] : 이성현, 김대원- [트라이] 안녕히, 그리고 물고기는 고마웠어요 (SOLONG) [[link](https://algospot.com/judge/problem/read/SOLONG)] : 조혜규, 천희진- [구간 트리] 족보 탐험 (FAMILYTREE) [[link](https://algospot.com/judge/problem/read/FAMILYTREE)] (구간 트리 정리) : 김형종
+#### 2016.12.04
+- [상호 배타적 집합] 에디터 전쟁 (EDITORWARS) [[link](https://algospot.com/judge/problem/read/EDITORWARS)] : 이성현, 김대원
+- [트라이] 안녕히, 그리고 물고기는 고마웠어요 (SOLONG) [[link](https://algospot.com/judge/problem/read/SOLONG)] : 조혜규, 천희진
+- [구간 트리] 족보 탐험 (FAMILYTREE) [[link](https://algospot.com/judge/problem/read/FAMILYTREE)] (구간 트리 정리) : 김형종
 
 
 
