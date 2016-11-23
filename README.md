@@ -10,9 +10,14 @@
  2. 알고스팟에 통과한 답안은 '**{알고스팟 ID}_{문제이름:소문자}' 같은 형태의 파일로 commit &  push
  3. 각 문제마다 담당자 1명씩 배치하여 문제 풀이(코드리뷰)를 발표 (발표는 1시간내)
  4. 문제풀이와 함께 각 문제의 토픽에 해당하는 알고리즘에 대한 간략한 설명
- 5. 발표순서 : 이성현 -> 조혜규 -> 천희진 -> 김대원 -> 김형종 -> 정찬훈
+ 5. 발표순서 : 이성현 -> 조혜규 -> 천희진 -> 김대원 -> 김형종
  
 ## 일정
+#### 2016.11.27
+- [트라이] 보안종결자 (NH) [[link](https://algospot.com/judge/problem/read/NH)] : 천희진
+- [그래프의 깊이 우선 탐색] 감시 카메라 설치 (GALLERY) [[link](https://algospot.com/judge/problem/read/GALLERY)] : 김형종
+- [트라이] 안녕히, 그리고 물고기는 고마웠어요 (SOLONG) [[link](https://algospot.com/judge/problem/read/SOLONG)] : 조혜규
+
 #### 2016.11.20
 - [상호 배타적 집합] 에디터 전쟁 (EDITORWARS) [[link](https://algospot.com/judge/problem/read/EDITORWARS)] : 이성현, 김대원
 - [트라이] 안녕히, 그리고 물고기는 고마웠어요 (SOLONG) [[link](https://algospot.com/judge/problem/read/SOLONG)] : 조혜규, 천희진
@@ -87,7 +92,9 @@
 
 =================
 
+#### 2016.12.11- [상호 배타적 집합] 에디터 전쟁 (EDITORWARS) [[link](https://algospot.com/judge/problem/read/EDITORWARS)] : 이성현, 김대원- [트라이] 안녕히, 그리고 물고기는 고마웠어요 (SOLONG) [[link](https://algospot.com/judge/problem/read/SOLONG)] : 조혜규, 천희진- [구간 트리] 족보 탐험 (FAMILYTREE) [[link](https://algospot.com/judge/problem/read/FAMILYTREE)] (구간 트리 정리) : 김형종
 
+#### 2016.12.04- [상호 배타적 집합] 에디터 전쟁 (EDITORWARS) [[link](https://algospot.com/judge/problem/read/EDITORWARS)] : 이성현, 김대원- [트라이] 안녕히, 그리고 물고기는 고마웠어요 (SOLONG) [[link](https://algospot.com/judge/problem/read/SOLONG)] : 조혜규, 천희진- [구간 트리] 족보 탐험 (FAMILYTREE) [[link](https://algospot.com/judge/problem/read/FAMILYTREE)] (구간 트리 정리) : 김형종
 
 
 
