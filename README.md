@@ -77,7 +77,6 @@
 - [동적계획법] 비대칭 타일링 (ASYMTILING) [[link](https://algospot.com/judge/problem/read/ASYMTILING)] : 신재욱
 - [동적계획법 테크닉] 드래곤 커브 (DRAGON) [[link](https://algospot.com/judge/problem/read/DRAGON)] : 조혜규
 
-
 #### 2016.06.26
 - [분할정복] 쿼드 트리 뒤집기 (QUADTREE) [[link](https://algospot.com/judge/problem/read/QUADTREE)] : 최선정
 - [분할정복] 울타리 잘라내기 (FENCE) [[link](https://algospot.com/judge/problem/read/FENCE)] : 김대원
@@ -94,17 +93,9 @@
 =================
 
 #### 2016.12.11
-- [상호 배타적 집합] 에디터 전쟁 (EDITORWARS) [[link](https://algospot.com/judge/problem/read/EDITORWARS)] : 이성현, 김대원
-- [트라이] 안녕히, 그리고 물고기는 고마웠어요 (SOLONG) [[link](https://algospot.com/judge/problem/read/SOLONG)] : 조혜규, 천희진
-- [구간 트리] 족보 탐험 (FAMILYTREE) [[link](https://algospot.com/judge/problem/read/FAMILYTREE)] (구간 트리 정리) : 김형종
+- [상호 배타적 집합] 에디터 전쟁 (EDITORWARS) [[link](https://algospot.com/judge/problem/read/EDITORWARS)] : 
+- [트라이] 안녕히, 그리고 물고기는 고마웠어요 (SOLONG) [[link](https://algospot.com/judge/problem/read/SOLONG)] :
 
 #### 2016.12.04
-- [상호 배타적 집합] 에디터 전쟁 (EDITORWARS) [[link](https://algospot.com/judge/problem/read/EDITORWARS)] : 이성현, 김대원
-- [트라이] 안녕히, 그리고 물고기는 고마웠어요 (SOLONG) [[link](https://algospot.com/judge/problem/read/SOLONG)] : 조혜규, 천희진
-- [구간 트리] 족보 탐험 (FAMILYTREE) [[link](https://algospot.com/judge/problem/read/FAMILYTREE)] (구간 트리 정리) : 김형종
-
-
-
-
-
-
+- [상호 배타적 집합] 에디터 전쟁 (EDITORWARS) [[link](https://algospot.com/judge/problem/read/EDITORWARS)] : 
+- [트라이] 안녕히, 그리고 물고기는 고마웠어요 (SOLONG) [[link](https://algospot.com/judge/problem/read/SOLONG)] :
