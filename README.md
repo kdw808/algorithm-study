@@ -85,17 +85,12 @@
 - 게임판 덮기(BOARDCOVER) [[link](https://algospot.com/judge/problem/read/BOARDCOVER)] : 조혜규
 - 시계 맞추기(CLOCKSYNC) [[link](https://algospot.com/judge/problem/read/CLOCKSYNC)] : 천희진
 
-
-
-
-
-
 =================
 
 #### 2016.12.11
-- [상호 배타적 집합] 에디터 전쟁 (EDITORWARS) [[link](https://algospot.com/judge/problem/read/EDITORWARS)] : 
-- [트라이] 안녕히, 그리고 물고기는 고마웠어요 (SOLONG) [[link](https://algospot.com/judge/problem/read/SOLONG)] :
+- [그래프의 너비 우선 탐색] 하노이의 탑 (HANOI4B) [[link](https://algospot.com/judge/problem/read/HANOI4B)] : 
+- [최단 경로 알고리즘] 소방차 (FIRETRUCKS) [[link](https://algospot.com/judge/problem/read/FIRETRUCKS)] :
 
 #### 2016.12.04
-- [상호 배타적 집합] 에디터 전쟁 (EDITORWARS) [[link](https://algospot.com/judge/problem/read/EDITORWARS)] : 
-- [트라이] 안녕히, 그리고 물고기는 고마웠어요 (SOLONG) [[link](https://algospot.com/judge/problem/read/SOLONG)] :
+- [그래프의 깊이 우선 탐색] 회의실 배정 (MEETINGROOM) [[link](https://algospot.com/judge/problem/read/MEETINGROOM)] : 
+- [그래프의 너비 우선 탐색] Sorting Game (SORTGAME) [[link](https://algospot.com/judge/problem/read/SORTGAME)] :
