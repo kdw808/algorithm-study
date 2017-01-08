@@ -13,7 +13,7 @@
  5. 발표순서 : 이성현 -> 조혜규 -> 천희진 -> 김대원 -> 김형종
  
 ## 일정
-#### 2016.11.27
+#### 2017.01.08
 - [트라이] 보안종결자 (NH) [[link](https://algospot.com/judge/problem/read/NH)] : 천희진
 - [그래프의 깊이 우선 탐색] 감시 카메라 설치 (GALLERY) [[link](https://algospot.com/judge/problem/read/GALLERY)] : 김대원
 - [트라이] 안녕히, 그리고 물고기는 고마웠어요 (SOLONG) [[link](https://algospot.com/judge/problem/read/SOLONG)] : 조혜규
